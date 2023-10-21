@@ -146,7 +146,7 @@ urbandict==0.6.1
 uritemplate==3.0.1
 urllib3==1.26.2
 uwsgidecorators==1.1.0
-validators==0.18.1
+validators==0.21.0
 websocket-client==0.57.0
 webdriver-manager
 wget==3.2
