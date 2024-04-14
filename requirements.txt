@@ -63,7 +63,7 @@ httplib2==0.18.1
 httpx==0.13.3
 humanize==3.1.0
 hyperframe==5.2.0
-idna==2.10
+idna==3.7
 image==1.5.33
 iplookup==1.0.5
 Jinja2==2.11.2
