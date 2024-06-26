@@ -15,7 +15,7 @@ blob==0.16
 borg==2012.4.1
 bs4==0.0.1
 cachetools==4.1.1
-certifi==2020.11.8
+certifi==2023.7.22
 cffi==1.14.4
 cfscrape==2.1.1
 chardet==3.0.4
@@ -60,10 +60,10 @@ hpack==3.0.0
 hstspreload==2020.11.21
 httpcore==0.9.1
 httplib2==0.18.1
-httpx==0.13.3
+httpx==0.23.0
 humanize==3.1.0
 hyperframe==5.2.0
-idna==2.10
+idna==3.7
 image==1.5.33
 iplookup==1.0.5
 Jinja2==2.11.2
