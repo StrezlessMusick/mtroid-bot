@@ -83,7 +83,7 @@ opencv-contrib-python==4.4.0.46
 password-strength==0.0.3.post2
 Pillow==6.2.2
 plac==1.2.0
-protobuf==3.14.0
+protobuf==4.25.8
 psycopg2==2.8.6
 psycopg2-binary==2.8.6
 pyaes==1.6.1
@@ -144,7 +144,7 @@ typing-extensions==3.7.4.3
 tzlocal==2.1
 urbandict==0.6.1
 uritemplate==3.0.1
-urllib3==1.26.2
+urllib3==2.5.0
 uwsgidecorators==1.1.0
 validators==0.18.1
 websocket-client==0.57.0
