@@ -1,7 +1,7 @@
 a-pytube-fork-for-spotdl-users==9.6.4
 aiofiles==0.6.0
 antispaminc==3.8
-aiohttp==3.7.3
+aiohttp==3.13.3
 apiclient==1.0.4
 APScheduler==3.6.3
 aria2p==0.9.1
@@ -144,7 +144,7 @@ typing-extensions==3.7.4.3
 tzlocal==2.1
 urbandict==0.6.1
 uritemplate==3.0.1
-urllib3==1.26.2
+urllib3==2.6.3
 uwsgidecorators==1.1.0
 validators==0.18.1
 websocket-client==0.57.0
